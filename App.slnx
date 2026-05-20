@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/infrastructure/">
+    <Project Path="infrastructure/AspireApp1.AppHost/AspireApp1.AppHost.csproj" />
+    <Project Path="infrastructure/AspireApp1.ServiceDefaults/AspireApp1.ServiceDefaults.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/AspireApp1.FunctionApps.Tests/AspireApp1.FunctionApps.Tests.csproj" Id="2a3dba22-5860-40f7-bb5e-298231072f57" />
+    <Project Path="src/AspireApp1.FunctionApps/AspireApp1.FunctionApps.csproj" />
+  </Folder>
+</Solution>
